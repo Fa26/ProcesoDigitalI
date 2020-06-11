@@ -1,0 +1,21 @@
+
+Venegas Guerrero Fatima Alejandra
+310318738  
+
+Instrucciones:
+
+1. Colocarse en terminal, dentro de la carpeta PRACTICA 3 ,código , y teclear:
+
+    $ javac PaintImage.java
+    $ java PaintImage
+
+2. Disfrutar de la aplicación, los filtros de marca de agua son los últimos
+3. Solo agregue las imágenes del "concurso" #3,#6,#8 que las pueden ver en los archivos de la carpeta y agrege para el primer filtro de  marca de agua una la imagen1 de la carpeta enviada 
+4.Los filtro de MarcadeAgua del "concurso" son los que dicen marcaAgua3,marcaAgua6,marcaAgua8
+5.No pude hacer el de poner marca de agua se me fue el tiempo haciendo bien el de quitar
+ 
+
+
+
+
+
