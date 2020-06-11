@@ -1,0 +1,17 @@
+
+Venegas Guerrero Fatima Alejandra
+fa_vene_guerrero@ciencias.unam.mx
+
+
+—  Instrucciones -
+
+1)Este programa esta escrito en Java
+2)Dentro de la carpeta Practica1 se encuentra la carpeta “Código”,dentro de ella habra varios archivos .java y las imágenes a las que se les aplicara los filtros.
+3)Abrir terminal posicionarse dentro de la carpeta codigo y ejecutar:
+javac Filtros.java // para compilar
+java Filtros       // para ejecutar el programa
+
+4)En caso de no encontrar la ventana que da opción a elegir otro filtro, solo cerrar las ventanas y terminara el programa
+5)Habra varias opciones de Gris ,estas representan las diferentes formas de conseguirlo 
+6)Todas las imágenes son de National GeograPhic
+7)Las imágenes creadas se guardan en la misma carpeta (Codigo)
