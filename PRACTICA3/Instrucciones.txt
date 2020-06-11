@@ -1,0 +1,19 @@
+
+Venegas Guerrero Fatima Alejandra
+310318738  
+
+Instrucciones:
+
+1. Colocarse en terminal, dentro de la carpeta PRACTICA 3 ,codigo , y teclear:
+
+    $ javac PaintImage.java
+    $ java PaintImage
+
+2. Disfrutar de la aplicacion, se recomienda usar primero los ya antes filtros,antes de 
+utilizar los nuevos
+3. Cuando se corran los nuevos filtros puede que tarden un poco, apareceran en una nueva ventana
+mas aun asi se puede seguir interactuando con otros
+
+
+
+
