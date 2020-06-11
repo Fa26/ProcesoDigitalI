@@ -1,0 +1,20 @@
+
+Instrucciones:
+
+1.Abrir terminal y posicionarse en la carpeta src
+2.Teclear:
+    $javac PaintImage.java
+    $java PaintImage
+3.Aparecera un cuadro dando las opciones de los filtros
+4.Al elegir uno el cuadro desaparecera,pero podra verlo de nuevo dando click en el 
+boton sobre la imagen llamado "filtos"
+5.Si se quiere salir solo dar click en el boton "salir"
+6.Estan los filtros de la practica anterior y son totalmente funcionales
+7.En el  filtro mediano  coloque una imagen distinta a la de default,pero 
+la colocque por que no se notaba un cambio en las otras
+8.Ajustar la ventana de la iamgen si es necesario
+
+
+Venegas Guerreo Fatima Alejandra
+fa_vene_guerrero@ciencias.unam.mx
+310318738
