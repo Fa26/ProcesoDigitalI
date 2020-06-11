@@ -1,0 +1,19 @@
+
+Venegas Guerrero Fatima Alejandra
+Sepia
+
+Instrucciones:
+
+1. Colocarse en terminal, dentro de la carpeta PRACTICA 5 ,código , y teclear:
+
+    $ javac PaintImage.java
+    $ java PaintImage
+
+2. Disfrutar de la aplicación, los filtros 
+
+ 
+
+
+
+
+
