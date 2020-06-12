@@ -5,7 +5,7 @@ Facultad de Ciencias ,UNAM
 
 Lic.Ciencias de la Computacion
 
-Programas creados en Java
+Programas que generan diferentes filtros a las imegenes,creados en Java
 
 En cada carpeta se encuentran las instrucciones correspondientes
 
